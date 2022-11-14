@@ -5,7 +5,7 @@
 <br>
 
 ## section1️⃣ 인터넷 네트워크
-### 1강 인터넷 통신
+### [1강 인터넷 통신](https://github.com/dmswl0311/inflearn-http-web-basic/blob/main/section1/1.%EC%9D%B8%ED%84%B0%EB%84%B7%20%ED%86%B5%EC%8B%A0.md)
 ### 2강 IP(인터넷 프로토콜)
 ### 3강 TCP,UDP
 ### 4강 PORT
