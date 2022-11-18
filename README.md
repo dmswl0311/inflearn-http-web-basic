@@ -11,5 +11,5 @@
 ### [2강 IP(인터넷 프로토콜)](https://github.com/dmswl0311/inflearn-http-web-basic/blob/main/section1/2.IP(%EC%9D%B8%ED%84%B0%EB%84%B7%20%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C).md)
 ### [3강 TCP,UDP](https://github.com/dmswl0311/inflearn-http-web-basic/blob/main/section1/3.TCP%2CUDP.md)
 ### [4강 PORT](https://github.com/dmswl0311/inflearn-http-web-basic/blob/main/section1/4.PORT.md)
-### 5강 DNS
+### [5강 DNS](https://github.com/dmswl0311/inflearn-http-web-basic/blob/main/section1/5.DNS.md)
 <br>
