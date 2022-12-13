@@ -13,3 +13,8 @@
 ### [4강 PORT](https://github.com/dmswl0311/inflearn-http-web-basic/blob/main/section1/4.PORT.md)
 ### [5강 DNS](https://github.com/dmswl0311/inflearn-http-web-basic/blob/main/section1/5.DNS.md)
 <br>
+
+## section2️⃣ URI와 웹 브라우저 요청 흐름
+### [6강 URI](https://github.com/dmswl0311/inflearn-http-web-basic/blob/main/section2/6.URI.md)
+
+
